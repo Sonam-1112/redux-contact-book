@@ -16,7 +16,8 @@
     "redux": "^4.1.0",
     "redux-devtools-extension": "^2.13.9",
     "shortid": "^2.2.16",
-    "web-vitals": "^1.1.2"
+    "web-vitals": "^1.1.2",
+    "node-sass": "^6.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -41,8 +42,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "node-sass": "^6.0.0"
   }
 }
